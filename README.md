@@ -1,4 +1,4 @@
-# Harmony
+# Tqios
 
 Harmony is a responsive jekyll theme. 
 
